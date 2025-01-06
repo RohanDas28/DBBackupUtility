@@ -25,7 +25,7 @@ Before using this script, ensure you have the following:
 
 2. Install required Python libraries:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   pip install discord-webhook
 
 3. Update the script with your own values:
    - Set the correct **database username** (`db_user`), **password** (`db_password`), and **database name** (`db_name`).
