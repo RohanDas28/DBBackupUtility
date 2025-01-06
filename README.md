@@ -66,4 +66,6 @@ Backups older than the specified retention period (`retention_period_hours`) wil
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
+![Explorer](readme_images/fileexplorer.png)
+![Discord](readme_images/discord.png)
+![Github](readme_images/github.png)
